@@ -1,8 +1,10 @@
-- 👋 Hi, I’m @Greenie62
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+## Greenie62
+
+### Programming:4 years
+
+#### Works in Javascript/JS frameworks/front-end HTML/CSS
+
+#### Interested in: web-dev/junior-dev positions
 
 <!---
 Greenie62/Greenie62 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
